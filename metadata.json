@@ -1,0 +1,6 @@
+{
+  "name": "Plankit Studio",
+  "description": "MICE 행사 브랜딩·디자인 스튜디오 'Plankit Studio'의 볼드 에디토리얼 스타일 원페이지 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
